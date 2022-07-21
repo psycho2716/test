@@ -4,7 +4,7 @@
 
 :root {
     /* Colors */
-    --body-color: #000116;
+    --body-color: #18152a;
     --navbar-color: rgba(255, 255, 255, 0.3);
     --border-color: rgba(255, 255, 255, 0.3);
     --primary-color: #fab700;
@@ -40,7 +40,7 @@
 }
 
 body{
-    background-color: #18152a;
+    background-color:  var(--body-color);
 }
 
 .selector-for-some-widget {
